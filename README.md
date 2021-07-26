@@ -21,6 +21,8 @@
   ## Usage
   run "node index.js" in terminal and follow prompts
 
+  ![Budget Tracker](./images/BudgetAPP.png)
+
   ## License
   MIT
 
